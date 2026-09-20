@@ -4,5 +4,5 @@ This works by searching through the image, swap neigber pixels and checks which 
 
 To run:
     `compile g++ main.cpp -lsdl2 -lsdl2_image -O3`
-     Make sure you have gif.h installed and in the same directory.
+     Make sure you have gif.h installed and in the same directory, and SDL2 and SDL2_image as part of your compiler.
      Then type in `a` and you will recieve more instructions.
